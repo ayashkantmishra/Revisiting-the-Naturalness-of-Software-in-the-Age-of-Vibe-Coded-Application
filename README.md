@@ -126,9 +126,3 @@ licenses of the referenced repositories.
 
 ---
 
-## 8. Citation
-
-```
-[Author(s)]. Revisiting the Naturalness of Software in the Age of
-Vibe-Coded Applications. ISEC 2027.
-```
